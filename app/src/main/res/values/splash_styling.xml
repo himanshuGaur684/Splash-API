@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SplashAPI.MySplash" parent="Theme.SplashScreen">
+
+        <item name="windowSplashScreenBackground">@color/purple_200</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/animatorvectordrawable</item>
+        <item name="postSplashScreenTheme">@style/Theme.SplashAPI</item>
+    </style>
+
+</resources>
